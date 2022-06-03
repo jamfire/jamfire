@@ -19,7 +19,7 @@
     "url": "https://github.com/jamfire/jamfire/issues"
   },
   "devDependencies": {
-    "@testing-library/cypress": "^8.0.0",
+    "@testing-library/cypress": "^8.0.3",
     "@types/node": "^16.3.1",
     "@types/react": "^17.0.14",
     "@types/react-dom": "^17.0.9",
