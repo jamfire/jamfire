@@ -48,7 +48,7 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "@vvo/tzdb": "^6.7.0",
+    "@vvo/tzdb": "^6.52.0",
     "lodash": "^4.17.21",
     "luxon": "^2.0.0",
     "netlify-cms-app": "^2.15.51"
