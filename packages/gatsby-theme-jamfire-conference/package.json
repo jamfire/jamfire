@@ -42,7 +42,7 @@
     "firebase": "^9.0.0",
     "formik": "^2.2.8",
     "gatsby-image": "^3.11.0",
-    "gatsby-plugin-gatsby-cloud": "^4.0.0",
+    "gatsby-plugin-gatsby-cloud": "^4.19.0",
     "gatsby-plugin-gdpr-cookies": "^2.0.0",
     "gatsby-plugin-image": "^2.0.0",
     "gatsby-plugin-loadable-components-ssr": "^4.0.0",
