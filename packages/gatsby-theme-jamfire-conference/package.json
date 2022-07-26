@@ -45,7 +45,7 @@
     "gatsby-plugin-gatsby-cloud": "^4.0.0",
     "gatsby-plugin-gdpr-cookies": "^2.0.0",
     "gatsby-plugin-image": "^2.0.0",
-    "gatsby-plugin-loadable-components-ssr": "^4.0.0",
+    "gatsby-plugin-loadable-components-ssr": "^4.2.1",
     "gatsby-plugin-netlify": "^3.8.0",
     "gatsby-plugin-netlify-cms": "^6.0.0",
     "gatsby-plugin-nprogress": "^4.0.0",
