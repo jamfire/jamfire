@@ -93,7 +93,7 @@
     "yup": "^0.32.9"
   },
   "devDependencies": {
-    "@graphql-codegen/cli": "^2.2.1",
+    "@graphql-codegen/cli": "^2.11.2",
     "@graphql-codegen/typescript": "^2.2.3",
     "@graphql-codegen/typescript-operations": "^2.1.7",
     "@netlify/plugin-gatsby": "^1.0.3",
